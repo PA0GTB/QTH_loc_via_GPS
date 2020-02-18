@@ -5,4 +5,4 @@ Original design by Hans Wagemans, ON4CDU and first modification bij KeesJan, PE1
 Code structured and cleaned up
 Project modified for internal and external power and activity led on outside casing 
 ---
-Original design by ON4CDU, Veron Electron, Novembr 2015
+Original project design by ON4CDU, Veron Electron, November 2015
